@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": 3,
-      "name": "Beer - Labatt Blue",
-      "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
-      "price": 53,
-      "featured": true,
-      "active": true
-    },
-    {
       "id": 4,
       "name": "Blue Curacao - Marie Brizard",
       "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
@@ -38,14 +30,6 @@
       "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
       "price": 74,
       "featured": true,
-      "active": false
-    },
-    {
-      "id": 8,
-      "name": "Pastrami",
-      "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
-      "price": 39,
-      "featured": false,
       "active": false
     },
     {
